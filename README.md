@@ -5,7 +5,7 @@ Hi, I'm Abu Talha, a passionate self-taught frontEnd web developer from Banglade
 - 🔭 I’m currently working on an Laravel E-commerce Website Practice.
 - 🌱 I’m currently learning Frontend & Backend staff.
 - 🤔 I’m looking for help with Laravel staff.
-- 💬 Ask me about anything [here](https://github.com/dev-talha/dev-talha/issues)
+- 💬 Ask me about anything [here](https://github.com/dev-talha/issues)
 - 📫 How to reach me:
 
     <a href="https://www.facebook.com/abu.talha.26">
