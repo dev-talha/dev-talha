@@ -1,9 +1,6 @@
 ### Hi there, I'm [Talha!](http://abutalha.net) 👋   
-Hi, I'm Abu Talha, a passionate self-taught frontEnd and backend web developer from Bangladesh.
+Hi,I am a full-stack web developer having 5+ years of work experience and now working with a strong and dedicated team of specialist developers in Alpha Net.
 
-
-I am a full-stack web developer having 5+ years of work experience and now working with a strong and dedicated team of specialist developers in Alpha Net.
-- 💬 Ask me about anything [here](https://github.com/dev-talha/dev-talha/issues)
 - 📫 How to reach me:
 
     <a href="https://www.facebook.com/abu.talha.26">
