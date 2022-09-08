@@ -1,10 +1,8 @@
-### Hi there, I'm [Talha!](https://dev-talha.github.io) 👋   
+### Hi there, I'm [Talha!](http://abutalha.net) 👋   
 Hi, I'm Abu Talha, a passionate self-taught frontEnd and backend web developer from Bangladesh.
 
 
-- 🔭 I’m currently working on an Laravel E-commerce Website Practice.
-- 🌱 I’m currently learning Frontend & Backend staff.
-- 🤔 I’m looking for help with Laravel staff.
+I am a full-stack web developer having 5+ years of work experience and now working with a strong and dedicated team of specialist developers in Alpha Net.
 - 💬 Ask me about anything [here](https://github.com/dev-talha/dev-talha/issues)
 - 📫 How to reach me:
 
