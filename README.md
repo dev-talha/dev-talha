@@ -11,7 +11,7 @@ Hi,I am a full-stack web developer having 5+ years of work experience and now wo
     <a href="mailto:bpitalha@gmail.com">
   <img  align="left" alt="Abu Talha | Gmail" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/70ff6b5cd7e107229d21c2f90de18f66e74c7857/assets/gmail.svg" /></a>
 
-    <a href="http://abutalha.net">
+    <a href="http://abutalha.com.bd">
   <img  align="left" alt="Abu Talha | site" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/53432377bf7f41379707df1ac9e38c977dd70d44/assets/www.svg" /></a>
 
 <br />
