@@ -17,8 +17,6 @@ Hi,I am a full-stack web developer having 5+ years of work experience and now wo
 <br />
 <br />
 
-- ⚡ Fun fact: I lost time when coding something interesting.. Hahah!
-
 
 ![Talha's github stats](https://github-readme-stats.vercel.app/api?username=dev-talha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
