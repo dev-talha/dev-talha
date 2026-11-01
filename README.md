@@ -1,33 +1,206 @@
-### Hi there, I'm [Talha!](http://abutalha.net) 👋   
-Hi,I am a full-stack web developer having 5+ years of work experience and now working with a strong and dedicated team of specialist developers in Alpha Net.
+<div align="center">
 
-- 📫 How to reach me:
+# Abu Talha
 
-  <a href="https://www.facebook.com/abu.talha.26">
-  <img  align="left" alt="Abu Talha | Facebook" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/2c036120117239c13e6617112e97efc6b704bea0/assets/facebook.svg" /></a>
+### Full-Stack Developer &bull; Web & Automation Specialist
 
- 
+**Building scalable web systems, workflow automations, and exploring practical AI integrations.**
 
-    <a href="mailto:bpitalha@gmail.com">
-  <img  align="left" alt="Abu Talha | Gmail" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/70ff6b5cd7e107229d21c2f90de18f66e74c7857/assets/gmail.svg" /></a>
+<br>
 
-    <a href="http://abutalha.com.bd">
-  <img  align="left" alt="Abu Talha | site" width="30" src="https://raw.githubusercontent.com/md-riaz/md-riaz/53432377bf7f41379707df1ac9e38c977dd70d44/assets/www.svg" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abutalha.com.bd-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abutalha.com.bd/)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abu.talha.26)
+[![Email](https://img.shields.io/badge/Email-bpitalha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpitalha@gmail.com)
 
-<br />
-<br />
+<br>
 
+![Experience](https://img.shields.io/badge/Experience-5%2B_Years-111827?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Web_%7C_Automation_%7C_DevOps-111827?style=flat-square)
+![Location](https://img.shields.io/badge/Bogura-Bangladesh-111827?style=flat-square)
 
-![Talha's github stats](https://github-readme-stats.vercel.app/api?username=dev-talha&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</div>
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## About Me
+
+I am a **Full-Stack Web Developer** with 5+ years of practical experience, currently working at **Alpha Net**. 
+
+My core focus centers on developing dependable business web applications, custom CRM modules, communication automation pipelines, and robust backend systems. Alongside daily production development, I actively experiment with containerized architectures, vector retrieval systems, and AI tooling to build reliable domain-specific workflows.
+
+---
+
+## What I Do
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Web Application Architecture
+
+Designing and maintaining secure, responsive, and data-driven web applications using modern backend frameworks.
+
+`PHP` `Laravel` `CodeIgniter` `MVC Architecture`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Workflow & Communication Automation
+
+Creating tailored automation services, API connectors, and messaging pipelines for operational efficiency.
+
+`WhatsApp API` `Evolution API` `WAHA` `Webhooks`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### CRM & ERP Customization
+
+Building enterprise-grade extensions, payment gateways, custom reporting, and role-based access modules.
+
+`Perfex CRM` `REST APIs` `System Integrations`
+
+</td>
+
+<td width="50%" valign="top">
+
+### DevOps & Containerization
+
+Deploying and orchestrating self-hosted production stacks, reverse proxies, and background queue workers on Linux VPS environments.
+
+`Docker` `Docker Compose` `Linux` `Nginx`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Database Architecture
+
+Structuring and querying relational databases and caching layers for optimum performance and consistency.
+
+`MySQL` `PostgreSQL` `Redis`
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Tooling & Integrations
+
+Exploring practical integrations with large language models, document embeddings, and local vector retrieval.
+
+`Qdrant` `AnythingLLM` `LLM APIs` `Python`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js" alt="Backend Technologies">
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery" alt="Frontend Technologies">
+
+<br><br>
+
+### Database & Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database Technologies">
+
+<br><br>
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" alt="DevOps Technologies">
+
+<br><br>
+
+### Tools & Editors
+
+<img src="https://skillicons.dev/icons?i=vscode,postman" alt="Development Tools">
+
+</div>
+
+<br>
+
+<div align="center">
+
+`RESTful APIs` &bull; `System Integration` &bull; `MVC Pattern` &bull; `VPS Management`
+
+`CRM Modules` &bull; `Background Workers` &bull; `Reverse Proxy` &bull; `Vector Search`
+
+</div>
+
+---
+
+## Selected Projects
+
+### [zakat-management](https://github.com/dev-talha/zakat-management)
+Web application designed for calculating, monitoring, and tracking Zakat contributions with clarity and structured record-keeping.
+
+`Laravel` `PHP` `MySQL` `Bootstrap`
+
+<br>
+
+### [ai-chatbot](https://github.com/dev-talha/ai-chatbot)
+Multi-platform chat orchestration leveraging AI APIs, webhooks, and automated intent routing.
+
+`Python` `LLM Integrations` `REST API`
+
+<br>
+
+### Perfex CRM Enterprise Extensions
+Engineered custom business plugins for Perfex CRM, including automated payment gateways, phone/lead lookups, activity log filters, and staff management permissions.
+
+`CodeIgniter` `PHP` `MySQL` `jQuery`
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-talha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-talha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
+
+---
+
+<div align="center">
+
+### Build reliable software. Automate workflows. Keep learning.
+
+<br>
+
+`Performance` &bull; `Security` &bull; `Scalability` &bull; `Clean Architecture`
+
+<br>
+
+<sub>Designed with clean markdown &bull; Hosted on GitHub</sub>
+
+</div>
