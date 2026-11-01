@@ -155,9 +155,9 @@ Engineered custom business plugins for Perfex CRM, including automated payment g
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-talha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=dev-talha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-talha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dev-talha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
 </div>
 
