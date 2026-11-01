@@ -114,43 +114,15 @@ Exploring practical integrations with large language models, document embeddings
 
 <div align="center">
 
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,js" alt="Backend Technologies">
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery" alt="Frontend Technologies">
-
-<br><br>
-
-### Database & Storage
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database Technologies">
-
-<br><br>
-
-### DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" alt="DevOps Technologies">
-
-<br><br>
-
-### Tools & Editors
-
-<img src="https://skillicons.dev/icons?i=vscode,postman" alt="Development Tools">
-
-</div>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,bootstrap,tailwind,jquery" alt="Languages & Frontend Technologies">
 
 <br>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,nginx,git,github,vscode,postman" alt="Databases, DevOps & Tools">
 
-`RESTful APIs` &bull; `System Integration` &bull; `MVC Pattern` &bull; `VPS Management`
+<br><br>
 
-`CRM Modules` &bull; `Background Workers` &bull; `Reverse Proxy` &bull; `Vector Search`
+`RESTful APIs` &bull; `System Integration` &bull; `MVC Pattern` &bull; `VPS Management` &bull; `CRM Modules` &bull; `Reverse Proxy`
 
 </div>
 
